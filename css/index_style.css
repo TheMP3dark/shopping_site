@@ -1,0 +1,20 @@
+.cat_text{
+	text-decoration:none;
+	color:black;
+	display:block;
+}
+
+.cat_text:hover{
+	background-color:black;
+	color:white;
+}
+
+#header{
+	background-color:grey;
+	background-image: url("../resources/header.jpg");
+
+}
+
+.back:hover{
+	background-color:black;
+}

@@ -1,0 +1,18 @@
+.cat_text{
+	text-decoration:none;
+	color:black;
+	display:block;
+}
+
+.cat_text.hover{
+	background-color:black;
+	color:white;
+}
+
+#header{
+	background-image:url("resourcces/header.jpg");
+}
+
+.header_properties{
+	background-image:url("resourcces/header.jpg");
+}
